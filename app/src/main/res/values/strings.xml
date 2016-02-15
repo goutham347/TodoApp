@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoApplist</string>
+    <string name="action_clicked">clicked</string>
+</resources>
